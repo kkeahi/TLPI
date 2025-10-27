@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "tlpi_hdr.h": "c",
+    "types.h": "c"
+  }
+}
