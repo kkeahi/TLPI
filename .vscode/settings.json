@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "tlpi_hdr.h": "c",
-    "types.h": "c"
+    "types.h": "c",
+    "unix_sockets.h": "c"
   }
 }
