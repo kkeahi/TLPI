@@ -2,6 +2,8 @@
   "files.associations": {
     "tlpi_hdr.h": "c",
     "types.h": "c",
-    "unix_sockets.h": "c"
+    "unix_sockets.h": "c",
+    "ugid_functions.h": "c",
+    "typeinfo": "c"
   }
 }
